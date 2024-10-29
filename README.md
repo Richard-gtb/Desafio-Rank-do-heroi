@@ -1,6 +1,6 @@
 ﻿# Desafio-Rank-do-heroi
 ## Calculadora de partidas Rankeadas
-**O Que deve ser utilizado**
+**O Que deve ser utilizado se necessário**
 
 - Variáveis
 - Operadores
@@ -26,5 +26,5 @@ Se vitórias for maior ou igual a 101 = Imortal
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
 
- # Modificações 
+ ## Modificações 
  Modificação feita adicionando o nome do usuário na resposta de saída, e gerando números aleatórios entre 0 e 150 para os valores de vitorias e derrotas.
