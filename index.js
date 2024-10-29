@@ -1,6 +1,6 @@
 let nome = "Richard";
-let vitorias = 80;
-let derrotas = 40;
+let vitorias = Math.random() * (150 - 0) + 0;
+let derrotas = Math.random() * (150 - 0) + 0;
 RankDoHeroi(nome,vitorias,derrotas)
 
 function saldoVitorias(vitorias,derrotas){
